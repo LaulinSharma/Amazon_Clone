@@ -1,2 +1,2 @@
-# Amazon_Clone
+# Amazon_clone
 Build Amazon clone using #HTML#CSS.
